@@ -1,0 +1,12 @@
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.AssemblyInfoInputs.cache
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.AssemblyInfo.cs
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.csproj.CoreCompileInputs.cache
+D:\Programming\Study\Career 180\New\StudentService\bin\Debug\net8.0\StudentService.deps.json
+D:\Programming\Study\Career 180\New\StudentService\bin\Debug\net8.0\StudentService.dll
+D:\Programming\Study\Career 180\New\StudentService\bin\Debug\net8.0\StudentService.pdb
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.dll
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\refint\StudentService.dll
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.pdb
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\ref\StudentService.dll
+D:\Programming\Study\Career 180\New\StudentService\obj\Debug\net8.0\StudentService.sourcelink.json

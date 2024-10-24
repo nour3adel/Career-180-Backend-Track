@@ -1,0 +1,30 @@
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.exe
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.deps.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.runtimeconfig.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.AssemblyInfoInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.AssemblyInfo.cs
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.csproj.CoreCompileInputs.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.sourcelink.json
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\refint\QnA.dll
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.pdb
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.genruntimeconfig.cache
+C:\Mahmoud\CS\Career-180-Backend-Track\Week-4\Day-4\QnA\obj\Debug\net8.0\ref\QnA.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.exe
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.deps.json
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.runtimeconfig.json
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\bin\Debug\net8.0\QnA.pdb
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.AssemblyInfoInputs.cache
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.AssemblyInfo.cs
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.csproj.CoreCompileInputs.cache
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.sourcelink.json
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\refint\QnA.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.pdb
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\QnA.genruntimeconfig.cache
+D:\Programming\Study\Career 180\Career180 Backend Track\Career-180-Backend-Track-main\Week-4\Day-4\QnA\obj\Debug\net8.0\ref\QnA.dll
